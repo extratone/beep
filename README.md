@@ -1,4 +1,4 @@
-![BeepIcon](BeepHour.png)
+![BeepIcon](beephouricon/BeepHourProduction.png)
 
 # Beep Hour
 - [GitHub Repository](https://github.com/extratone/beep) 
