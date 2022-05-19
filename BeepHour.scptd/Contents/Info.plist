@@ -8,12 +8,16 @@
 	<string>BeepHour</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© David Blue. No rights reserved.</string>
 	<key>WindowState</key>
 	<dict>
 		<key>bundleDividerCollapsed</key>
-		<true/>
+		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>0.0</real>
+		<real>401</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -23,9 +27,9 @@
 		<key>positionOfDivider</key>
 		<real>419</real>
 		<key>savedFrame</key>
-		<string>50 193 700 678 0 0 1440 875 </string>
+		<string>50 189 700 678 0 0 1440 875 </string>
 		<key>selectedTab</key>
-		<string>result</string>
+		<string>log</string>
 	</dict>
 </dict>
 </plist>
